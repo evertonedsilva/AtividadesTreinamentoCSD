@@ -1,0 +1,1 @@
+["^ ","~$-main",["^ ","~:row",4,"~:col",1,"~:varargs-min-arity",0,"~:name","^0","~:ns","~$duplicate.core","~:top-ns","^6"],"~$twice",["^ ","^1",9,"^2",1,"~:fixed-arities",["~#set",[1]],"^4","^8","^5","^6","^7","^6","~:arities",["^ ","~i1",["^ ","~:ret","~:vector"]]],"~:filename","/home/everton/clojure_CSD/duplicate/src/duplicate/core.clj"]
